@@ -6,7 +6,7 @@ import ee
 
 # The service account email address authorized by your Google contact.
 # Set up a service account as described in the README.
-EE_ACCOUNT = '<YOUR-SERVICE-ACCOUNT-ID>@developer.gserviceaccount.com'
+EE_ACCOUNT = '884698086022-compute@developer.gserviceaccount.com'
 
 # The private key associated with your service account in JSON format.
 EE_PRIVATE_KEY_FILE = 'privatekey.json'
